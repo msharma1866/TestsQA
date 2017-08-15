@@ -35,7 +35,7 @@ namespace TestsQA
         }
 
         [Test]
-        public void SampleTest1()
+        public void SampleTest2()
         {
 
         }
