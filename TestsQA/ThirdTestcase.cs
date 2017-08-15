@@ -8,5 +8,7 @@ namespace TestsQA
 {
     class ThirdTestcase
     {
+        public string TestCaseId { get; set; }
+        public object Values { get; set; }
     }
 }
