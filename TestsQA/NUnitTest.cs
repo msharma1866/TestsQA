@@ -35,6 +35,12 @@ namespace TestsQA
         }
 
         [Test]
+        public void SampleTest1()
+        {
+
+        }
+
+        [Test]
         public void TestFocusComponents()
         {
             driver.Navigate().GoToUrl("https://www.incometaxindia.gov.in/Pages/tax-services/know-your-tan.aspx");
