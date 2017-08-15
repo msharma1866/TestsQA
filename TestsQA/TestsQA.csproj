@@ -82,6 +82,7 @@
   <ItemGroup>
     <Compile Include="DemoPropertyDataSource.cs" />
     <Compile Include="SecondTestCase.cs" />
+    <Compile Include="ThirdTestcase.cs" />
     <Compile Include="Utilities\ExcelDataAttribute.cs" />
     <Compile Include="Utilities\ExcelToDataTableHelper.cs" />
     <Compile Include="FirstTestCase.cs" />
