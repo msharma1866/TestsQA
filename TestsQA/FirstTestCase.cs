@@ -10,6 +10,7 @@ namespace TestsQA
 {
     class FirstTestCase
     {
+        public object NewProperty { get; set; }
         static void Main(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
