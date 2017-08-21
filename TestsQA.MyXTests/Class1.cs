@@ -14,5 +14,17 @@ namespace TestsQA.MyXTests
         {
 
         }
+
+        [Fact]
+        public void MyXUnitTestCase2()
+        {
+
+        }
+
+        [Fact]
+        public void MyXUnitTestCase3()
+        {
+
+        }
     }
 }
